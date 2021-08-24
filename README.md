@@ -10,4 +10,5 @@ HTML, CSS, JavaScript
 
 ### GÖRÜNÜM:
 
-![todo](https://user-images.githubusercontent.com/63058707/130622085-37971834-4d93-4fe0-9f68-a26e9118c07f.jpg)
+![todo](https://user-images.githubusercontent.com/63058707/130622601-97de5307-d056-4492-adc3-ae22506f02e3.jpg)
+
