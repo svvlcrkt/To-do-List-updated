@@ -75,7 +75,7 @@ for (var i = 0; i < myNodelist.length; i++) {  //li sayısı kadar öğeye atama
   var span = document.createElement("SPAN");
   var txt = document.createTextNode("\u00D7"); //çarpı işaretidir
   span.className = "close";
-  span.appendChild(txt);  //span'inen son öğesine txt'yi ekler.
+  span.appendChild(txt);  //span'in en son öğesine txt'yi ekler.
   //span.innerText = txt;  //bunu neden kullanmadık???
   myNodelist[i].appendChild(span); //appendChild ile öğenin yeni yeri belirlenmiş olur.
   // burada myNodelist array'inin i. öğesine span'i yerleştirdik
