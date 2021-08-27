@@ -21,18 +21,19 @@ btn.addEventListener('click',() => {  //kullanıcı dokümanda herhangi bir yere
         span.appendChild(text);
         li.appendChild(span);
 
-        for (i = 0; i < close.length; i++) {
+       
+    
+    
+    }
+
+})
+ for (i = 0; i < close.length; i++) {
             close[i].onclick = function() { //close tıklandığında eşitlendiği fonksiyondaki işlemlerin yapılmasını sağlar.
               var div = this.parentElement; 
               div.style.display = "none";  //silinen elementin gözükmemesini sağlar
             }
           }
     
-    
-    
-    }
-
-})
 
 
 
